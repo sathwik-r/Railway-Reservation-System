@@ -1,4 +1,4 @@
-#Railway Reservation System
+# Railway Reservation System
 
 1. A train is identified by a unique train-number.
 2. A train has few AC coaches and several Sleeper class coaches.
@@ -15,7 +15,7 @@ interest by the Admin.
 
 7. Uses HTML, CSS, Javascript, NodeJs, Postgress
 
-##Screenshots
+## Screenshots
 
 - Index ![Main Page](./Screenshots/2.png)
 
